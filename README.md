@@ -9,7 +9,7 @@ Since then, I've been doing projects, self-hosting (because it's cool, especiall
 
 Here are the 1 main project I'm working on now:
 
-- [**Kazuha**](): My main activity is to maintain the development of my Discord bot I created, **Kazuha**, created Sun Jun 02 2024 to introduce myself to development.
+- [**Winter**](): My main activity is to maintain the development of my Discord bot I created, **Kazuha**, created Sun Jun 02 2024 to introduce myself to development.
 
 ---
 

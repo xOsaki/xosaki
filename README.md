@@ -1,16 +1,32 @@
-👋 Salut !
+👾 Salut !
 
-Je suis Osaki.
-J’ai découvert le développement il y a presque 5 ans en créant mon premier bot Discord.
-Depuis, je travaille sur divers projets, j’auto-héberge (parce que c’est stylé, surtout Vaultwarden et Nextcloud) et je continue d’explorer des idées sympas.
+Je suis Jeo ! Développeur de bots Discord, développeur Minecraft Bedrock Edition (MCBE) et développeur web.
+Ces derniers temps, j’ai été assez occupé avec plusieurs projets !
 
-📁 Projet Actif
+🛠️ Compétences
 
-	•	[Winter] : Mon projet principal est de maintenir et développer mon bot Discord, Kazuha, que j’ai créé le 2 juin 2024 pour me lancer dans le développement.
+	•	Langages : JavaScript, HTML, CSS
+	•	Développement Web : HTML, CSS, Node.js, Express.js
+	•	Bots : Discord.js, Node.js, intégration API, Discord.Py
+	•	Bases de données : MongoDB
 
-Je code principalement en JavaScript.
+🚀 Projets
 
-📱 Me Contacter
+ Mikasa
 
-	•	Discord : osaki17
-	•	Mail : Dans ma bio GitHub (mais je réponds rarement, parce que… la flemme).
+Mikasa est un bot Discord avec de nombreuses fonctionnalités utiles pour ton serveur ! 🧁
+Mikasa Discord
+
+Technos utilisées : Node.js, Discord.js, Python, Discord.py, MongoDB, et un tableau de bord (à venir).
+Fonctionnalités :
+	•	Commandes personnalisées pour chaque serveur
+	•	Outils de modération (kick, ban, mute)
+	•	Système de giveaway
+	•	Système de logs
+	•	Quelques commandes diverses et pratiques !
+
+Il y a d’autres projets, mais ils sont privés.
+
+🌐 Me Contacter !
+
+	•	Discord : Ajoute-moi sur Discord, mon pseudo : osaki17

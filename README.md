@@ -1,21 +1,16 @@
-# Hi !
+👋 Salut !
 
-Hey, I'm Osaki. 
+Je suis Osaki.
+J’ai découvert le développement il y a presque 5 ans en créant mon premier bot Discord.
+Depuis, je travaille sur divers projets, j’auto-héberge (parce que c’est stylé, surtout Vaultwarden et Nextcloud) et je continue d’explorer des idées sympas.
 
-I discovered development almost 5 years ago when I wanted to create a Discord bot.  
-Since then, I've been doing projects, self-hosting (because it's cool, especially Vaultwarden and Nextcloud) and other cool stuff.
+📁 Projet Actif
 
-## 📁 My Active Project
+	•	[Winter] : Mon projet principal est de maintenir et développer mon bot Discord, Kazuha, que j’ai créé le 2 juin 2024 pour me lancer dans le développement.
 
-Here are the 1 main project I'm working on now:
+Je code principalement en JavaScript.
 
-- [**Winter**](): My main activity is to maintain the development of my Discord bot I created, **Kazuha**, created Sun Jun 02 2024 to introduce myself to development.
+📱 Me Contacter
 
----
-
-I mainly code my project in JavaScript.
-
-## 📱 Contacting Me
-
-If you have any questions, want to contact me or anything else, I'm available on Discord (osaki17), or by mail (in my GitHub bio).  
-However I don't guarantee any answer because I'm too lazy to answer.
+	•	Discord : osaki17
+	•	Mail : Dans ma bio GitHub (mais je réponds rarement, parce que… la flemme).

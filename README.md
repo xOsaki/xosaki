@@ -1,7 +1,6 @@
 👾 Salut !
 
-Je suis Jeo ! Développeur de bots Discord, développeur Minecraft Bedrock Edition (MCBE) et développeur web.
-Ces derniers temps, j’ai été assez occupé avec plusieurs projets !
+	Je suis Osaki! Développeur de bots Discord, développeur web.
 
 🛠️ Compétences
 
